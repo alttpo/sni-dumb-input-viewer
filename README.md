@@ -1,0 +1,1 @@
+# sni-dumb-input-viewer
